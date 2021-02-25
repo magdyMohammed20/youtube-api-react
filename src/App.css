@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+
+.videoList{
+  width: 30%;
+}
+
+.videoDetail{
+  width: 65%
+}
+
+
+.videoList img{
+  width: 180px;
+  height: 120px;
+}
+
